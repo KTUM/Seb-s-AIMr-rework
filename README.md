@@ -1,9 +1,9 @@
 # TODO
 As I remembered when i originally found repo i would have to do 4 things
-1 add esp
-2 Fix optimization issues 
-3 smth smth kb issue
-4 tbd
+>1 add esp
+>2 Fix optimization issues 
+>3 smth smth kb issue
+>4 tbd
 <h2 style="text-align: center;"> Join the Discord for help (support channel) and announcements https://dsc.gg/AIMr (1k+ members)</h2>
 
 > [!WARNING]
